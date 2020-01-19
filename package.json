@@ -2,13 +2,23 @@
   "name": "mano-demo",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://dgesteves.github.io/mano-demo",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.3.0"
+    "react-scripts": "3.3.0",
+    "@fortawesome/fontawesome-svg-core": "^1.2.26",
+    "@fortawesome/free-brands-svg-icons": "^5.12.0",
+    "@fortawesome/react-fontawesome": "^0.1.8",
+    "gsap": "^3.0.5",
+    "hover-effect": "^1.1.0",
+    "node-sass": "^4.13.1",
+    "react-router-dom": "^5.1.2",
+    "react-slick": "^0.25.2",
+    "slick-carousel": "^1.8.1"
   },
   "scripts": {
     "start": "react-scripts start",
