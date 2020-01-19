@@ -5,7 +5,7 @@ import Routes from './Routes'
 import Footer from './components/Footer'
 
 function App () {
-  return Routes && (
+  return  (
     <div className='app'>
       <div className='header'>
         <Header/>

@@ -1,5 +1,5 @@
 import React from 'react'
-import { Switch, Route } from 'react-router-dom'
+import { Switch, Route, Redirect } from 'react-router-dom'
 
 import Home from './components/Home'
 import About from './components/About'
@@ -10,6 +10,7 @@ import Contacts from './components/Contacts'
 function Routes () {
   return (
     <Switch>
+      <Redirect exact from="/mano-demo" to="/"/>
       <Route exact path='/'>
         <Home/>
       </Route>
