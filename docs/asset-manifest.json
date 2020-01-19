@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mano-demo/static/css/main.ed4f81be.chunk.css",
+    "main.css": "/mano-demo/static/css/main.c6cf97aa.chunk.css",
     "main.js": "/mano-demo/static/js/main.0f78d6db.chunk.js",
     "main.js.map": "/mano-demo/static/js/main.0f78d6db.chunk.js.map",
     "runtime-main.js": "/mano-demo/static/js/runtime-main.ea7dc0d2.js",
@@ -9,10 +9,10 @@
     "static/js/2.fe40076d.chunk.js": "/mano-demo/static/js/2.fe40076d.chunk.js",
     "static/js/2.fe40076d.chunk.js.map": "/mano-demo/static/js/2.fe40076d.chunk.js.map",
     "index.html": "/mano-demo/index.html",
-    "precache-manifest.1011d8583e5669486df7498a8ed2d064.js": "/mano-demo/precache-manifest.1011d8583e5669486df7498a8ed2d064.js",
+    "precache-manifest.d0c2928f01a31cceb2fb65cf8e482f9f.js": "/mano-demo/precache-manifest.d0c2928f01a31cceb2fb65cf8e482f9f.js",
     "service-worker.js": "/mano-demo/service-worker.js",
     "static/css/2.0b540e4c.chunk.css.map": "/mano-demo/static/css/2.0b540e4c.chunk.css.map",
-    "static/css/main.ed4f81be.chunk.css.map": "/mano-demo/static/css/main.ed4f81be.chunk.css.map",
+    "static/css/main.c6cf97aa.chunk.css.map": "/mano-demo/static/css/main.c6cf97aa.chunk.css.map",
     "static/js/2.fe40076d.chunk.js.LICENSE": "/mano-demo/static/js/2.fe40076d.chunk.js.LICENSE",
     "static/media/bernard-shaw.webp": "/mano-demo/static/media/bernard-shaw.2e5f617b.webp",
     "static/media/blackbird.webp": "/mano-demo/static/media/blackbird.eb5288e7.webp",
@@ -76,7 +76,7 @@
     "static/js/runtime-main.ea7dc0d2.js",
     "static/css/2.0b540e4c.chunk.css",
     "static/js/2.fe40076d.chunk.js",
-    "static/css/main.ed4f81be.chunk.css",
+    "static/css/main.c6cf97aa.chunk.css",
     "static/js/main.0f78d6db.chunk.js"
   ]
 }

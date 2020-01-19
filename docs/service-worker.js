@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mano-demo/precache-manifest.1011d8583e5669486df7498a8ed2d064.js"
+  "/mano-demo/precache-manifest.d0c2928f01a31cceb2fb65cf8e482f9f.js"
 );
 
 self.addEventListener('message', (event) => {

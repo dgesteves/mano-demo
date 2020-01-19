@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1a88d818a8d62005d3e7f92f2c43e9c7",
+    "revision": "631128261db9f057a9e701b469f32126",
     "url": "/mano-demo/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mano-demo/static/css/2.0b540e4c.chunk.css"
   },
   {
-    "revision": "90f3be984366c135dc4e",
-    "url": "/mano-demo/static/css/main.ed4f81be.chunk.css"
+    "revision": "d3dcf9378bf04a5e7e69",
+    "url": "/mano-demo/static/css/main.c6cf97aa.chunk.css"
   },
   {
     "revision": "833af61e5aeb4cdf949b",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mano-demo/static/js/2.fe40076d.chunk.js.LICENSE"
   },
   {
-    "revision": "90f3be984366c135dc4e",
+    "revision": "d3dcf9378bf04a5e7e69",
     "url": "/mano-demo/static/js/main.0f78d6db.chunk.js"
   },
   {
