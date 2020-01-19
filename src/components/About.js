@@ -37,7 +37,7 @@ function About() {
         </p>
       </div>
       <div className='distortion' ref={el => setParent(el)}>
-        <span className='overlay'></span>
+        <span className='overlay'/>
       </div>
     </div>
   );

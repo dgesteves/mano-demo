@@ -1,25 +1,25 @@
-import React from 'react';
+import React from 'react'
 
-import Header from './components/Header';
-import Routes from './Routes';
-import Footer from './components/Footer';
+import Header from './components/Header'
+import Routes from './Routes'
+import Footer from './components/Footer'
 
-function App() {
-  return (
+function App () {
+  return Routes && (
     <div className='app'>
       <div className='header'>
-        <Header />
+        <Header/>
       </div>
 
       <div className='content'>
-        <Routes />
+        <Routes/>
       </div>
 
       <div className='footer'>
-        <Footer />
+        <Footer/>
       </div>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
